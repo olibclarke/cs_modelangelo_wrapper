@@ -1,12 +1,12 @@
 # cs_modelangelo_wrapper
 
-`cs_modelangelo_wrapper.py` runs ModelAngelo using a CryoSPARC job as input and records the run as a CryoSPARC External job.
+`cs_modelangelo_wrapper.py` runs [ModelAngelo](https://www.nature.com/articles/s41586-024-07215-4) using a CryoSPARC job as input and records the run as a CryoSPARC External job.
 
 ## Requirements
 
 - `cryosparc-tools` in the Python environment running the wrapper
 - A readable CryoSPARC `instance_info.json`
-- ModelAngelo available as:
+- [ModelAngelo](https://github.com/3dem/model-angelo) available as:
 
 ```bash
 relion_python_modelangelo
