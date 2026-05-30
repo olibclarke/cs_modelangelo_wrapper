@@ -14,6 +14,8 @@ relion_python_modelangelo
 
 The wrapper checks that the executable is available before running.
 
+This script was written with the assistance of an LLM. It has been tested as much as possible, but there still may be bugs - please report if you encounter any.
+
 ## Basic usage
 
 Run ModelAngelo with a protein FASTA:
