@@ -125,7 +125,6 @@ Use an explicit path if needed:
 ```text
 --source-group GROUP       Input volume output group; inferred if omitted
 --map-field FIELD          Map path field; sharpened maps are preferred by default
---row N                    Row of the volume dataset to use; default 0
 --sequence FASTA           Protein FASTA file
 --rna-fasta FASTA          Optional RNA FASTA file
 --dna-fasta FASTA          Optional DNA FASTA file
@@ -134,6 +133,5 @@ Use an explicit path if needed:
 --device DEVICE            ModelAngelo device, e.g. 0, 1, cpu
 --executable PATH          ModelAngelo executable; default relion_python_modelangelo
 --output NAME              Base CryoSPARC output name for CIF files
---project-dir PATH         Override CryoSPARC project directory
 --instance-info PATH       Path to instance_info.json
 ```
