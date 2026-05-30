@@ -1,6 +1,6 @@
 # cs_modelangelo_wrapper
 
-`cs_modelangelo_wrapper.py` runs [ModelAngelo](https://www.nature.com/articles/s41586-024-07215-4) using a CryoSPARC job as input and records the run as a CryoSPARC External job.
+`cs_modelangelo_wrapper.py` runs [ModelAngelo](https://www.nature.com/articles/s41586-024-07215-4) (Jiamali et al., 2024) using a CryoSPARC job as input and records the run as a CryoSPARC External job.
 
 ## Requirements
 
