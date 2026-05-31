@@ -130,8 +130,7 @@ Use an explicit path if needed:
 --dna-fasta FASTA          Optional DNA FASTA file
 --mask MRC                 Explicit mask path
 --no-mask                  Do not use an input mask
---device DEVICE            ModelAngelo device, e.g. 0, 1, cpu
+--device DEVICE            E.g. 0, 1, cpu
 --executable PATH          ModelAngelo executable; default relion_python_modelangelo
---output NAME              Base CryoSPARC output name for CIF files
 --instance-info PATH       Path to instance_info.json
 ```
