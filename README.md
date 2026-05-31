@@ -114,7 +114,7 @@ If `--instance-info` is not supplied, the wrapper searches:
 ~/instance_info.json
 ```
 
-Use an explicit path if needed:
+Or you can specify directly:
 
 ```bash
 --instance-info /path/to/instance_info.json
